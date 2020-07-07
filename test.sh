@@ -1,0 +1,1 @@
+dotnet test --logger:"nunit;LogFilePath=test-result.xml"
